@@ -7,3 +7,7 @@
     font-weight: bold;
     font-size: 24px;
 }
+.red {
+    background: rgba(255, 59, 59, 0.5);
+    font-family:'Verdana', 'DejaVu', sans-serif;    
+}
